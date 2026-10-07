@@ -1,0 +1,79 @@
+{
+  "loaded": 38,
+  "quarantined": 2,
+  "appraisal_rows": 228,
+  "anomalies": 3,
+  "all_measures": {
+    "capex_gbp": 27195937,
+    "net_tco2e": 60287
+  },
+  "plans": {
+    "1m": {
+      "capex_gbp": 999840,
+      "net_tco2e": 5113,
+      "npv_gbp": 2114398,
+      "buildings": 19
+    },
+    "3m": {
+      "capex_gbp": 2998300,
+      "net_tco2e": 11869,
+      "npv_gbp": 4620010,
+      "buildings": 30
+    },
+    "6m": {
+      "capex_gbp": 5999558,
+      "net_tco2e": 20610,
+      "npv_gbp": 3802672,
+      "buildings": 35
+    }
+  },
+  "macc": [
+    {
+      "measure": "PV",
+      "net_tco2e": 3438.0,
+      "abatement_gbp_per_t": -3318.0
+    },
+    {
+      "measure": "LED",
+      "net_tco2e": 3295.0,
+      "abatement_gbp_per_t": -815.0
+    },
+    {
+      "measure": "BMS",
+      "net_tco2e": 4448.0,
+      "abatement_gbp_per_t": -482.0
+    },
+    {
+      "measure": "INS",
+      "net_tco2e": 14088.0,
+      "abatement_gbp_per_t": -19.0
+    },
+    {
+      "measure": "ASHP",
+      "net_tco2e": 30843.0,
+      "abatement_gbp_per_t": 239.0
+    },
+    {
+      "measure": "GLZ",
+      "net_tco2e": 4175.0,
+      "abatement_gbp_per_t": 1541.0
+    }
+  ],
+  "design_options": [
+    {
+      "option": "A. Steel frame + composite deck",
+      "upfront_kg_m2": 172.3,
+      "cost_gbp_m2": 200.1
+    },
+    {
+      "option": "B. RC frame, 50% GGBS",
+      "upfront_kg_m2": 193.4,
+      "cost_gbp_m2": 150.0
+    },
+    {
+      "option": "C. Glulam + CLT hybrid",
+      "upfront_kg_m2": 147.0,
+      "cost_gbp_m2": 310.0
+    }
+  ]
+}
