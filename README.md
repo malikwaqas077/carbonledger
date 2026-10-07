@@ -6,6 +6,8 @@ CarbonLedger puts carbon and cost data into one central place and turns it into 
 
 > Portfolio demo built by [Waqas Ahmad](https://www.linkedin.com/in/waqas-ahmad09/). **All data is synthetic** (four fictional clients, 40 buildings), and the factors are illustrative values in published ranges. It is not client work and not a certified carbon assessment.
 
+**[Watch the 2-minute captioned walkthrough](https://github.com/malikwaqas077/carbonledger/releases/download/v0.1.0/CarbonLedger_Demo_Waqas_Ahmad.mp4)**
+
 ![Abatement curve](docs/tab1.png)
 
 ## What it does
